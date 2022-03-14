@@ -1,0 +1,23 @@
+{
+  "name": "github-korean-badage",
+  "version": "1.0.0",
+  "description": "github-korean-badage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shblue21/github-korean-badage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shblue21/github-korean-badage/issues"
+  },
+  "homepage": "https://github.com/shblue21/github-korean-badage#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
